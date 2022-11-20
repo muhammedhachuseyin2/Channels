@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png" group-title="Undefined",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 1
+http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 1 (720p) [Geo-blocked]
+https://tv-trt1.medya.trt.com.tr/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRT1.tr.png" group-title="Undefined",TRT 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3334?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRT1.tr.png" group-title="Undefined",TRT 1 HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4774?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRT2.tr.png" group-title="Undefined",TRT 2
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/24906?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/56f6b448-ad1b-4760-aad4-54f8f364ad37.png" group-title="Undefined",TRT 2
+http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 2 FHD
+http://167.114.115.233:8080/trt2fhd/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 3-SPOR
+http://195.155.98.170:5858/play/a09m?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/trt4k.tr.png" group-title="Undefined",TRT 4K
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13947?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 4K
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/4001/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT ARABi
+http://tv-trtarabi.live.trt.com.tr/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRTAvaz.tr.png" group-title="Undefined",TRT Avaz
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7326?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT Avaz (720p)
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT BELGESEL
+http://195.155.98.170:5858/play/a09o?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT BELGESEL HD
+http://195.155.98.170:5858/play/a09f?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT COCUK
+http://195.155.98.170:5858/play/a09n?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT COCUK HD
+http://195.155.98.170:5858/play/a09b?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" group-title="Kids",TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/diyanet.tr.png" group-title="Undefined",TRT Diyanet
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/9131?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/ebalise.tr.png" group-title="Undefined",TRT Eba Lise
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/74855?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/ebaorta.tr.png" group-title="Undefined",TRT Eba Ortaokul
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/74854?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/ebailk.tr.png" group-title="Undefined",TRT Eba İlkokul
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/74853?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT HABER
+http://195.155.98.170:5858/play/a09k?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7ab33f6b-4b30-4208-878d-6ca1d90f588d.png" group-title="Undefined",TRT Kürdi
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT MUZIK HD
+http://195.155.98.170:5858/play/a09h?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT MUZiK
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT MUZiK HD
+https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/trtMuzik.tr.png" group-title="Undefined",TRT Müzik
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1063?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT SPOR YILDIZ
+http://195.155.98.170:5858/play/a09u?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT TURK HD
+https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRTTurk.tr.png" group-title="Undefined",TRT Türk
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1082?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8ea87965-bed0-40a7-a31a-1209612ee8d8.png" group-title="Undefined",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT WORLD HD
+https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/trt-world.png" group-title="Undefined",TRT WORLD HD-TR (720p)
+http://tv-trtworld.live.trt.com.tr/master_720.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/ThPgKiG.jpg" group-title="Undefined",TRT Çocuk
+http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT1 HD
+http://195.155.98.170:5858/play/a09c?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT2 HD
+http://195.155.98.170:5858/play/a09p?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/trtHaber.tr.png" group-title="Undefined",Trt Haber HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/48?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/trtHaber.tr.png" group-title="Undefined",Trt Haber HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5224?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRTWorld.tr.png" group-title="Undefined",Trt World HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7853?checkedby:iptvcat.net
